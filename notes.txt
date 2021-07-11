@@ -1,0 +1,8 @@
+The Git Repo:
+https://github.com/NeroJz/Udacity-Project02-Image-Filter-App.git
+
+The Endpoint:
+http://image-filter-app-dev.us-east-1.elasticbeanstalk.com?image_url={{url}}
+
+e.g.
+http://image-filter-app-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://i.pinimg.com/550x/f9/0a/53/f90a53dfa7d880c019e6a9aace7fc6d5.jpg
